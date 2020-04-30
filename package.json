@@ -14,7 +14,7 @@
   "dependencies": {
     "canvg": "^2.0.0",
     "highcharts": "^7.2.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jspdf": "^1.5.3",
     "typeface-oswald": "0.0.75"
   },
